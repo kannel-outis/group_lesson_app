@@ -7,9 +7,9 @@ screenshots of my implementation below
 
 
 
-![Screenshot_20210627-203827](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203827.png)
-![Screenshot_20210627-203832](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203832.png)
-![Screenshot_20210627-203838](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203838.png)
+![Screenshot_20210627-203827](https://github.com/kannel-outis/group_lesson_app/blob/master/assets/images/Screenshot_20210627-203827.png)
+![Screenshot_20210627-203832](https://github.com/kannel-outis/group_lesson_app/blob/master/assets/images/Screenshot_20210627-203832.png)
+![Screenshot_20210627-203838](https://github.com/kannel-outis/group_lesson_app/blob/master/assets/images/Screenshot_20210627-203838.png)
 
 
 
