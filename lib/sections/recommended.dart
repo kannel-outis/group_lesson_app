@@ -136,9 +136,7 @@ class _Recommended extends StatelessWidget {
                           style: theme.textTheme.bodyText2,
                         ),
                         Container(
-                          // height: 35,
                           height: Utils.blockHeight * 2.7,
-                          // width: 70,
                           width: Utils.blockWidth * 11.8,
                           constraints: BoxConstraints(
                             maxHeight: 45,
