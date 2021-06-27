@@ -1,3 +1,19 @@
+
+[original dribble post by Dmitry Lauretsky](https://dribbble.com/shots/15872795-Group-Lesson-App)
+![dribble design](https://cdn.dribbble.com/users/2564256/screenshots/15872795/media/eaed338424046bc2e71202cfb2fd00f8.png)
+
+
+screenshots of my implementation below
+
+
+
+![Screenshot_20210627-203827](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203827.png)
+![Screenshot_20210627-203832](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203832.png)
+![Screenshot_20210627-203838](https://github.com/kannel-outis/group_lesson_app/blob/new/assets/images/Screenshot_20210627-203838.png)
+
+
+
+
 # group_lesson_app
 
 A new Flutter project.
